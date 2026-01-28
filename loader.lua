@@ -13,7 +13,7 @@ local Games = {
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
     end,
 
-    [100040622766961] = function()
+    [17625359962] = function()
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
     end
 }
