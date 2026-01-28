@@ -26,7 +26,7 @@ local Games = {
     end, -- Counter Blox
 
     [185655149] = function()
-        loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/074f42e1cda0e59c3e78a75d3d525df34b71043e776e4432d01b7d18f5bf2ddf/download"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/Aether/refs/heads/main/Games/Bloxburg.lua"))()
     end, -- Bloxburg
 
     [1234567890] = function()
