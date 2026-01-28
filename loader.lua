@@ -25,6 +25,10 @@ local Games = {
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
     end, -- Counter Blox
 
+    [185655149] = function()
+        loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/074f42e1cda0e59c3e78a75d3d525df34b71043e776e4432d01b7d18f5bf2ddf/download"))()
+    end, -- Bloxburg
+
     [1234567890] = function()
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
     end
