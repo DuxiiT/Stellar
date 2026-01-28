@@ -3,25 +3,29 @@ local PlaceId = game.PlaceId
 local Games = {
     [90568084448279] = function()
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
-    end,
+    end, -- One Tap
 
     [286090429] = function()
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
-    end,
+    end, -- Arsenal
 
     [114234929420007] = function()
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
-    end,
+    end, -- BloxStrike
 
     [17625359962] = function()
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
-    end,
+    end, -- RIVALS
 
     [136801880565837] = function()
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
-    end,
+    end, -- Flick
 
     [301549746] = function()
+        loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
+    end, -- Counter Blox
+
+    [1234567890] = function()
         loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/a3e94a0738157c3bafa3b66b389dddab95542bf40f6cc17f7bd4cbab5ca37d78/download"))()
     end
 }
